@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-<!--
+
 **tzcura/tzcura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <img align="right" alt="bbbearxyz's github stats" width="40%" src="https://github-readme-stats.vercel.app/api?username=tzcura&show_icons=true">
 
-I'm bbbearxyz, a postgraduate in USTC from GaoBeidian, China.
+I'm tzcura, a postgraduate in USTC from GaoBeidian, China.
 
 -   :hammer_and_pick:    know a little in Go and C++
 -   :pencil2: Mac OS / Clion
@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+<!---->
