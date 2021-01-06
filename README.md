@@ -10,7 +10,6 @@ I'm tzcura, a postgraduate student in USTC who wants to become a computer scient
 
 -   :ok_hand: Know a little about C++, Python.
 -   :running: Keen on studying new things.
--   :seedling: Working on leep learning novice course.
 -   :ok_woman: Interested in programming contest.
 
 <!--
