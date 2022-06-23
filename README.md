@@ -6,9 +6,9 @@
 
 <img align="right" alt="bbbearxyz's github stats" width="40%" src="https://github-readme-stats.vercel.app/api?username=tzcura&show_icons=true">
 
-I'm tzcura, a postgraduate student in USTC who wants to become a computer scientist.
+I'm Xing, a postgraduate student in USTC who wants to become a full-stack engineer.
 
--   :ok_hand: Know a little about C++, Python.
+-   :ok_hand: Know a little about JavaScript.
 -   :running: Keen on studying new things.
 -   :ok_woman: Interested in programming contest.
 
